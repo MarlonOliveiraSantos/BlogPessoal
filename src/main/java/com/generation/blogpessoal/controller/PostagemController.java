@@ -1,8 +1,8 @@
-package com.example.Blog.Pessoal.controller;
+package com.generation.blogpessoal.controller;
 
-import com.example.Blog.Pessoal.model.Postagem;
-import com.example.Blog.Pessoal.repository.PostagemRepository;
-import com.example.Blog.Pessoal.repository.TemaRepository;
+import com.generation.blogpessoal.model.Postagem;
+import com.generation.blogpessoal.repository.PostagemRepository;
+import com.generation.blogpessoal.repository.TemaRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,8 +1,8 @@
-package com.example.Blog.Pessoal.controller;
+package com.generation.blogpessoal.controller;
 
-import com.example.Blog.Pessoal.model.Usuario;
-import com.example.Blog.Pessoal.repository.UsuarioRepository;
-import com.example.Blog.Pessoal.service.UsuarioService;
+import com.generation.blogpessoal.model.Usuario;
+import com.generation.blogpessoal.repository.UsuarioRepository;
+import com.generation.blogpessoal.service.UsuarioService;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

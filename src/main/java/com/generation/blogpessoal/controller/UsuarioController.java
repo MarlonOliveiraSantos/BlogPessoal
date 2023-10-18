@@ -1,9 +1,9 @@
-package com.example.Blog.Pessoal.controller;
+package com.generation.blogpessoal.controller;
 
-import com.example.Blog.Pessoal.model.Usuario;
-import com.example.Blog.Pessoal.model.UsuarioLogin;
-import com.example.Blog.Pessoal.repository.UsuarioRepository;
-import com.example.Blog.Pessoal.service.UsuarioService;
+import com.generation.blogpessoal.model.Usuario;
+import com.generation.blogpessoal.model.UsuarioLogin;
+import com.generation.blogpessoal.repository.UsuarioRepository;
+import com.generation.blogpessoal.service.UsuarioService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

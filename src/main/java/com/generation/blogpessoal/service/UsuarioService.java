@@ -1,11 +1,11 @@
-package com.example.Blog.Pessoal.service;
+package com.generation.blogpessoal.service;
 
 import java.util.Optional;
 
-import com.example.Blog.Pessoal.Security.JwtService;
-import com.example.Blog.Pessoal.model.Usuario;
-import com.example.Blog.Pessoal.model.UsuarioLogin;
-import com.example.Blog.Pessoal.repository.UsuarioRepository;
+import com.generation.blogpessoal.Security.JwtService;
+import com.generation.blogpessoal.model.Usuario;
+import com.generation.blogpessoal.model.UsuarioLogin;
+import com.generation.blogpessoal.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.authentication.AuthenticationManager;

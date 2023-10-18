@@ -1,4 +1,4 @@
-package com.example.Blog.Pessoal.model;
+package com.generation.blogpessoal.model;
 
 public class UsuarioLogin {
     private Long id;

@@ -1,7 +1,7 @@
-package com.example.Blog.Pessoal.controller;
+package com.generation.blogpessoal.controller;
 
-import com.example.Blog.Pessoal.model.Tema;
-import com.example.Blog.Pessoal.repository.TemaRepository;
+import com.generation.blogpessoal.model.Tema;
+import com.generation.blogpessoal.repository.TemaRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

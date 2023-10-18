@@ -1,6 +1,6 @@
-package com.example.Blog.Pessoal.repository;
+package com.generation.blogpessoal.repository;
 
-import com.example.Blog.Pessoal.model.Tema;
+import com.generation.blogpessoal.model.Tema;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 

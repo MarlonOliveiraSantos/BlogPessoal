@@ -1,9 +1,9 @@
-package com.example.Blog.Pessoal.Security;
+package com.generation.blogpessoal.Security;
 
 import java.util.Optional;
 
-import com.example.Blog.Pessoal.model.Usuario;
-import com.example.Blog.Pessoal.repository.UsuarioRepository;
+import com.generation.blogpessoal.model.Usuario;
+import com.generation.blogpessoal.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.core.userdetails.UserDetails;
